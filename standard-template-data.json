@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-08-31T03:01:37.339502396Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-10-09T06:53:01.796404911Z",
     "templateType": "trip_d",
     "propertyId": "6de989ac-220e-4026-a543-fb2677776319",
     "homepageId": "4844deea-e0e3-4c3e-a5b2-338f72370926"
@@ -22,13 +22,16 @@
     "checkin": "16:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 16시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의",
-    "usageGuide": "- 오후 10시 이후 바비큐장 이용 및 고성방가 금지\n- 집기 파손 시 펜션지기에게 알림\n- 퇴실 시 음식물 및 쓰레기 분리수거, 사용한 주방기구 세척 요청\n- 최종 숙박 인원은 사전 문자 또는 유선 상으로 통보 필요\n\n[입퇴실안내]\n- 입실: 16시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가요금]\n유아(24개월 이하) : 무료이나 인원에는 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: ~4인까지 30,000원 / 4인이상 40,000원 (1박기준/현장결제)\n- 신청 시간: ~18:00\n- 이용 시간: 18:00~21:00 \n※ 동절기(11월~2월) 외 18:00~22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[불멍]\n- 이용 요금: 10kg 1박스 30,000원 / 2박스 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 이용 장소: 객실 앞마당\n- 제공 구성: 야외용 의자 및 테이블, 화로, 참나무 장작, 집게 등\n※ 당일 18시 이전까지 사전예약 필수\n※ 우천 시 및 강풍으로 인해 기상악화 시 이용 불가할 수 있음\n\n[부대시설]\n[핀란드 사우나]\n- 이용 객실: 하늘\n- 이용 요금: 10kg 1박스 30,000원/ 2박스 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n※ 찜질복 무료대여\n※ 불멍 2박스 신청 시 1박스로 무료 이용 가능\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 와이파이 보유\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 가능\n※ 전기차 충전소 2대\n\n[교통편]\n- 자가용 이용 시\n지번 주소 : 강원 속초시 장성천길 장사동 186-1\n도로명 주소 : 강원 속초시 장성천길 61-27",
+    "usageGuide": "[공지사항]\n- 오후 10시 이후 바비큐장 이용 및 고성방가 금지\n- 집기 파손 시 펜션지기에게 알림\n- 퇴실 시 음식물 및 쓰레기 분리수거, 사용한 주방기구 세척 요청\n- 최종 숙박 인원은 사전 문자 또는 유선 상으로 통보 필요\n\n[입퇴실안내]\n- 입실: 16시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 25개월 이상~8세 미만\n- 유아: 25개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n유아(24개월 이하) : 무료이나 인원에는 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불\n- 이용 요금: ~4인까지 30,000원 / 4인이상 40,000원 (1박기준/현장결제)\n- 신청 시간: ~18:00\n- 이용 시간: 18:00~21:00 \n※ 동절기(11월~2월) 외 18:00~22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n\n[불멍]\n- 이용 요금: 10kg 1박스 30,000원 / 2박스 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 이용 장소: 객실 앞마당\n- 제공 구성: 야외용 의자 및 테이블, 화로, 참나무 장작, 집게 등\n※ 당일 18시 이전까지 사전예약 필수\n※ 우천 시 및 강풍으로 인해 기상악화 시 이용 불가할 수 있음\n\n[부대시설]\n[핀란드 사우나]\n- 이용 객실: 하늘\n- 이용 요금: 10kg 1박스 30,000원/ 2박스 50,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n※ 찜질복 무료대여\n※ 불멍 2박스 신청 시 1박스로 무료 이용 가능\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 와이파이 보유\n\n[주차장]\n- 주차장 보유\n- 전기차 충전기 이용 가능\n※ 전기차 충전소 2대\n\n[교통편]\n- 자가용 이용 시\n지번 주소 : 강원 속초시 장성천길 장사동 186-1\n도로명 주소 : 강원 속초시 장성천길 61-27",
     "reservationGuide": "- 오후 10시 이후 바비큐장 이용 및 고성방가 금지\n- 집기 파손 시 펜션지기에게 알림\n- 퇴실 시 음식물 및 쓰레기 분리수거, 사용한 주방기구 세척 요청\n- 최종 숙박 인원은 사전 문자 또는 유선 상으로 통보 필요",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "birosops.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1909373216",
     "ybsId": "75502",
+    "tripPropertyId": "7122",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -290,7 +293,7 @@
           {
             "id": "a14424b2-971d-4467-97a9-0a61df671990",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/DZwcLXjYmh50.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -300,7 +303,7 @@
           {
             "id": "5481ba5b-da0d-45e1-a6de-eea41b06ca5f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/X8Bng17iJzNC.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -308,7 +311,7 @@
           {
             "id": "15a28473-7ca8-4b02-a6d8-e7f9120ead74",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/THLxlMe39nPa.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -316,7 +319,7 @@
           {
             "id": "63e41cef-8d49-45c9-a1ed-696581596579",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/b1oZBEuC8x9W.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -324,7 +327,7 @@
           {
             "id": "27a6cb7f-c16c-427b-b4ee-523de2e89141",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/ATi1NMzDwlPt.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -332,7 +335,7 @@
           {
             "id": "69c7beaa-42e0-41a3-9cf2-18d9b96d9293",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/k2SzhLOHJp14.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -340,7 +343,7 @@
           {
             "id": "3e1ffa16-cf65-4c0a-94f4-11b9cf7534f8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/2Uto85DFNOVv.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -348,7 +351,7 @@
           {
             "id": "9761c09c-6553-4f7b-bff5-76446359156f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/Bg4AtFJIszEU.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -356,7 +359,7 @@
           {
             "id": "6588b715-35d5-4c7f-a75c-a226480d19d5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/g9qSMN1VuUQn.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -364,7 +367,7 @@
           {
             "id": "a4383bce-af7c-4c65-94ee-44bc25863d9b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/kfSpeQhyDGZz.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1671,6 +1674,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
